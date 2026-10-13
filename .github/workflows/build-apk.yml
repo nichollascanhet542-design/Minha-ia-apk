@@ -1,4 +1,4 @@
-name: Build Minha IA APK
+³name: Build Minha IA APK
 
 on:
   workflow_dispatch:
